@@ -3,7 +3,8 @@ Proiectul include un motor de randare grafică bazat pe biblioteca `graphics.h`,
 
 ### Funcționalități cheie:
 * **Evaluator de Expresii:** Suportă operații binare (`+`, `-`, `*`, `/`, `^`), unare (`sin`, `cos`, `log`, `sqrt`, `exp`, `abs`) și constante matematice (`e`, `pi`).
-* **Interactivitate:** * **Zoom:** Ajustarea scării graficului folosind tastele `+` și `-`.
+* **Interactivitate:**
+    * **Zoom:** Ajustarea scării graficului folosind tastele `+` și `-`.
     * **Pan (Deplasare):** Navigarea pe suprafața graficului prin drag-and-drop cu mouse-ul.
 * **Analiză Matematică:**
     * Identificarea automată a punctelor de **minim** și **maxim**.
